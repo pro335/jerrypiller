@@ -1,0 +1,221 @@
+{
+  "main": {
+    "name": "ting yang",
+    "occupation": "Senior Full-stack/Front-end Developer",
+    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image": "profilepic.png",
+    "bio": "I'm a web/mobile developer. I enjoy being challenged and engaging with projects to help people.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "pawlbai124@gmail.com",
+    "skype": "johndavis0124@outlook.com",
+    "skype_name": "live:.cid.ae4d45cdb783a517",
+    "phone": "+1 (437) 266-1290",
+    "address": {
+      "state": "",
+      "country": ""
+    },
+    "website": "https://www.linkedin.com/in/meow124",
+    "resumedownload": "https://drive.google.com/file/d/14Zbv6XmERGMWrR8ZMXd8YNNZ6trjFFps/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/meow124",
+        "className": "fab fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/pro335",
+        "className": "fab fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "skype:live:.cid.ae4d45cdb783a517?chat",
+        "className": "fab fa-skype"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/dev00124",
+        "className": "fab fa-telegram"
+      },
+      {
+        "name": "gmail",
+        "url": "mailto:pawlbai124@gmail.com",
+        "className": "fab fa-google-plus-g"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "National University of Singapore",
+        "degree": "Bachelor's degree Of Computer Science",
+        "entered": "Jul 2010",
+        "graduated": "Jul 2014",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "title": "Senior Frontend Developer",
+        "company": "CloudWorx",
+        "years": "Nov 2020 - Apr 2021",
+        "description": "- Working in a team and delivering banking software from scratch. <br /> - Focused on front-end development, providing mentorship and coaching to 2 or 3 interns each summer <br /> - Creating reusable components and high scaling applications with tests coverage of at least 80%. <br /> For that purpose, I have used the 'Ant' design and material design and only functional components."
+      },
+      {
+        "title": "Mid/Senior Frontend Engineer",
+        "company": "MobiDev",
+        "years": "Jan 2015 - Oct 2020",
+        "description": "- Developed several technologies with React.js, Next.js, Vue.js, Nuxt.js and other frameworks to assist Fortune 500 companies with increasing their productivity by 40% or more <br /> - Drafted documentation delineating designs and specs for more than 20 projects <br /> - Teamed up with current clients to understand needs for improved functionality, and communicated with engineers and clients to develop enhancements that boosted client satisfaction by 27% <br /> - Transformed UIs using React, decreasing debugging time by 62% and increasing views by 31%"
+      },
+      {
+        "title": "Software Trainer",
+        "company": "MobiDev",
+        "years": "Jul 2014 - Dec 2014",
+        "description": "- Learned many different programming languages <br /> - Base expertise such as HTML, CSS, Javascript, Jquery, Java, PHP, Laravel, Android/IOS, Mobile, Web, Game development, and so on <br /> - Studied data structures to recommend changes in algorithms, which boosted online sales by 6% <br />- Partnered with interns, using code composition to redesign a clean API that offered increased flexibility to third parties, which generated a revenue increase of $1.5M"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Video Conferencing Platform",
+        "category": "Screen sharing, online meetings and team collaboration are all fast and easy at join.me.",
+        "image": "join.me.png",
+        "url": "https://www.join.me"
+      },
+      {
+        "title": "Booking",
+        "category": "Hotel West-End offers you all the comfort of a luxury hotel",
+        "image": "caprocat.png",
+        "url": "https://caprocat.com"
+      },
+      {
+        "title": "Free Online Courses, Lessons & Practice",
+        "category": "Learn for free about math, art, computer programming and more.",
+        "image": "khanacademy.png",
+        "url": "https://www.khanacademy.org"
+      },
+      {
+        "title": "Porter & York",
+        "category": "An innovative online butcher shop shipping fresh meats, poultry & seafood right to your door within 48 hours!",
+        "image": "pork.jpg",
+        "url": "https://porterandyork.com"
+      },
+      {
+        "title": "E-Shopping",
+        "category": "A React based e-shopping website",
+        "image": "multivendor.png",
+        "url": "https://multivendor-1993678.herokuapp.com"
+      },
+      {
+        "title": "Survery Website",
+        "category": "The Municipality of Encarnación is conducting a social census to prevent covid19.",
+        "image": "covid19.jpg",
+        "url": "http://covid19.encarnacion.gov.py"
+      },
+      {
+        "title": "Custom Dashboard",
+        "category": "Dashboard - Super admin, Normal admin, User",
+        "image": "merchantfile.png",
+        "url": "https://www.merchantfile.com"
+      },
+      {
+        "title": "Personal Training",
+        "category": "Fitlab is een Personal training studio & Lifestyle club.",
+        "image": "fitlab.png",
+        "url": "https://www.fitlab.nl"
+      },
+      {
+        "title": "Popular - SOAP2DAY",
+        "category": "SOAP2DAY.com offers top rated TV shows and movies.",
+        "image": "soap2day.png",
+        "url": "https://soap2day.to"
+      },
+      {
+        "title": "Meteorological Observation",
+        "category": "It draws the changes in meteorological observation data to atmospheric parameters.",
+        "image": "atmospheric.jpg",
+        "url": "http://atmospheric.cn/"
+      },
+      {
+        "title": "International Energy Agency",
+        "category": "The IEA works with countries around the world to shape energy policies.",
+        "image": "iea.png",
+        "url": "https://www.iea.org"
+      },
+      {
+        "title": "Ayzd - NFT analytics and more",
+        "category": "Ayzd helps you to learn about the NFT projects. Biggest NFT project database, live news feed, top collections, powerful analytics, statistics and more.",
+        "image": "ayzd.png",
+        "url": "https://app.ayzd.com/"
+      },
+      {
+        "title": "MoviesJoy",
+        "category": "Watch HD Movies online and Stream latest tv-series",
+        "image": "moviesjoy.png",
+        "url": "https://moviesjoy.to"
+      },
+      {
+        "title": "Buff",
+        "category": "Gay Dating & Gay Video Chat For Guys",
+        "image": "buff.jpg",
+        "url": "https://play.google.com/store/apps/details?id=com.buff.apps"
+      },
+      {
+        "title": "Menstrual app",
+        "category": "Free Menstrual Calendar and Ovulation Us",
+        "image": "menstrual.jpg",
+        "url": "https://play.google.com/store/apps/details?id=com.tracker.calendariomenstrualgratisyovulacionnosotrass"
+      },
+      {
+        "title": "Chicken & Fish",
+        "category": "With Chicken & Fish, you can place an order online and receive it at home in minutes",
+        "image": "chicken.jpg",
+        "url": "https://play.google.com/store/apps/details?id=it.chickennfish"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I am very satisfied with his work. He was extremely thorough, patient and responded quickly to questions. We will definitely work with him again.",
+        "user": "Oleksii Limarchuk"
+      },
+      {
+        "text": "A++!",
+        "user": "Domian Bednarski"
+      }
+    ]
+  }
+}
